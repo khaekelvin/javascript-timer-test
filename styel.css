@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #e38b29;
+}
+
+.box {
+  width: 400px;
+  height: 500px;
+  background-color: #fdeedc;
+  border-radius: 20px;
+  margin-left: 800px;
+  margin-top: 280px;
+}
+
+.number {
+  text-align: center;
+  padding-top: 150px;
+  font-size: 70px;
+}
+
+button {
+  padding: 15px 30px;
+  border-radius: 10px;
+  border-style: none;
+  margin-top: 20px;
+  margin-left: 150px;
+  background-color: #e38b29;
+}
